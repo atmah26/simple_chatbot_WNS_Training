@@ -1,4 +1,4 @@
-# 🤖 AI Multi-Mode Chatbot
+# AI Multi-Mode Chatbot
 
 A Streamlit-powered chatbot app with three modes — General Chatbot, Story Generator, and Joke Generator — built with LangChain and Google Gemini.
 
